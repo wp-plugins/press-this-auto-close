@@ -4,7 +4,7 @@ Contributors: haoqisir
 Donate link: http://haoqis.com/
 Tags: baidu, analytics, statistics, stats, tracking
 Requires at least: 3.0.0
-Tested up to: 1.1
+Tested up to: 3.3.2
 Stable tag: trunk
 
 This is a plugin for Press-this tool, it auto close your window when you publish your post after 3 seconds. 
